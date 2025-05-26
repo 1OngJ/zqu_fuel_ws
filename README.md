@@ -1,9 +1,9 @@
 ### nlopt 安装
 参考港科大FUEL部署相关开发环境，不需要clone其源码
 
-### 下载fuel_ws，只适合ubuntu20
+### zqu_fuel_ws，只适合ubuntu20
 - https://github.com/1OngJ/zqu_fuel_ws.git
-- cd fuel_ws
+- cd zqu_fuel_ws
 - catkin_make
 
 ### 启动流程
